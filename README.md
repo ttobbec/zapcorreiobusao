@@ -16,3 +16,7 @@ Delivery em espaçotempo real em qualquer ponto de ônibus
 9. Circule papel e escreva poemas. Olhe a janela e inspire.
 10. Somos mais que os dedões. Use a garganta, seja a de quem precisa.
 ```
+
+# Pull requests
+
+Isso é só uma ideia especulativa de um sistema conectivo de pessoas colaborando. Não sei se funciona na prática, se encoraja crime ou se faz flores crescerem no asfalto. Acho que cabe a nós. Patches welcome :)

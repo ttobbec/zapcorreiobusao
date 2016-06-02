@@ -15,6 +15,7 @@ Delivery em espaçotempo real em qualquer ponto de ônibus
 8. Ocupe ou ceda espaço, evite traspassar o da outra e do outro. Ajude a dissipar o medo e construir confiança.
 9. Circule papel e escreva poemas. Olhe a janela e inspire.
 10. Somos mais que os dedões. Use a garganta, seja a de quem precisa.
+11. Pense no resto da cidade. Use horários de baixa ocupação. Somos toda(os) vizinha(os).
 ```
 
 # Pull requests

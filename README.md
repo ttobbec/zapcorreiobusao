@@ -8,7 +8,7 @@ Delivery em espaçotempo real em qualquer ponto de ônibus
 4. ||__--(O)(O)|_|_|--_______--|_|_|--(0)(0)-_||
 3. Quando precisar de algo na linha, pergunte se tem alguém no grupo que pode fazer a volta.
 4. Seja generoso com quem for generoso com você.
-5. Uma hora por dia, uma vez por semana em alguma linha de ônibus cobre a hora no mês com 30 pessoas.
+5. Uma hora por dia, uma vez por semana em alguma linha de ônibus é suficiente para cobrir este horário todo dia no mês com apenas 30 pessoas.
 6. Pega uma vez, fica dando volta na linha, pega e entrega rápido nas paradas. Se não der pra dar troco e as pessoas se conhecerem e concordarem, a dívida pode ficar registrada no histórico e ser reposta em uma próxima volta.
 6. Aperte um "pause" coletivo no grupo para votar no melhor horário (a cada 1 mês?). O histórico é o cartório da assembleia.
 7. Respeite, ponha-se no lugar e promova a paz com toda a vida que encontrar em olhares, gestos, palavras e atitudes. 
